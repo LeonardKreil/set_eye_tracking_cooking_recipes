@@ -1,0 +1,16 @@
+test_id;name;gender;cooking_number_week;cooking_time_meal;meal_complexity;favorites;vegetarian;attention_to_nutrition
+0;Christoph_Haerdl;male;1;2;1;chilli,spaghettis,schweinebraten;FALSE;FALSE
+1;Johannes_Rothe;male;2;3;2;semmeln;TRUE;TRUE
+2;Paul_Hannig;male;2;3;3;semmeln,schweinebraten,indi_curry;FALSE;TRUE
+3;Leon_Hagn;male;2;2;1;schweinebraten,spaghettis,hack;FALSE;TRUE
+4;Roland_Hildwein;male;1;2;2;hawai,gratine,hack;FALSE;TRUE
+5;Adem_Wannes;male;1;2;1;semmeln,indi_curry,chilli;FALSE;TRUE
+6;David_Schneid;male;1;2;1;spaghettis,arab_pizza,hack;FALSE;TRUE
+7;Christoph_Kaesweber;male;1;2;1;spaghettis,semmeln,chilli;FALSE;FALSE
+8;Emil_Berent;male;2;2;2;spaghettis,glasnudeln,indi_curry;FALSE;TRUE
+9;Mike_Figas;male;2;3;2;semmeln,hack,indi_curry;FALSE;TRUE
+10;Lorenz_Falcioni;male;1;3;3;semmeln,gratine,glasnudeln;FALSE;TRUE
+11;Markus_Schmidhuber;male;2;2;2;schweinebraten,spaghettis,glasnudeln;FALSE;FALSE
+12;Georg_Mages;male;1;2;1;indi_curry,spaghettis,hack;FALSE;TRUE
+13;Fabian_Pechtl;male;2;3;2;semmeln,schweinebraten,hack;FALSE;FALSE
+14;Philipp_Christoph;male;1;2;1;chilli,indi_curry,arab_pizza;FALSE;TRUE
